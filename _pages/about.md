@@ -22,4 +22,4 @@ Research Interest
 
 Contact
 ------
-Contact me via Email: sushil[dot]thapa[at]fusemachines[dot]com
+Email: sushil[dot]thapa[at]fusemachines[dot]com

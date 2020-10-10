@@ -8,7 +8,7 @@ date: 2019-09-15
 location: "Kathmandu, Nepal"
 ---
 
-Assistant Instructor for "Machine Learning" Course for [Microdegree in Artificial Intelligence](www.fuse.ai).
+Assistant Instructor for "Machine Learning" Course for [Microdegree in Artificial Intelligence](https://www.fuse.ai).
 
 Course Topics
 ======

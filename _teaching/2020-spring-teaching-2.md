@@ -8,7 +8,7 @@ date: 2020-02-15
 location: "Kathmandu, Nepal"
 ---
 
-Instructor for "Deep Learning" Course for [Microdegree in Artificial Intelligence](www.fuse.ai).
+Instructor for "Deep Learning" Course for [Microdegree in Artificial Intelligence](https://www.fuse.ai).
 
 Course Topics
 ======

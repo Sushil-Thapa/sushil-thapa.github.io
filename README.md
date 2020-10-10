@@ -1,2 +1,2 @@
-# [Sushil Thapa | Portfolio](https://www.thapasushil.com)
+# [Sushil Thapa | Portfolio](https://thapasushil.com)
 

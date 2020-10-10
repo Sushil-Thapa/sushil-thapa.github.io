@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Resume
+======
+- 📃 You can find [my Resume](https://thapasushil.com/files/Resume.pdf) here.
 
 Education
 ======
