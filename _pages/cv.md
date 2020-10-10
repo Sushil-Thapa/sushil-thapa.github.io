@@ -25,7 +25,7 @@ Work experience
   * Fusemachines Nepal Pvt. Ltd.
   <!-- * Duties included: Merging pull requests -->
   <!-- * Supervisor: Professor Hub -->
-  * 
+  
 * Spring 2016: Researcher / Developer
   * Spark Technology
   <!-- * Duties included: Merging pull requests -->
