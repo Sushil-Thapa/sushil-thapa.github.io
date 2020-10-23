@@ -1,5 +1,5 @@
 ---
-title: "Instructor"
+title: "Deeplearning Instructor"
 collection: teaching
 type: "Deeplearning Course"
 permalink: /teaching/2020-spring-teaching-2
@@ -47,4 +47,3 @@ Paper Summaries
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
 - [Genrative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 - Policy Gradients Methods
-- 

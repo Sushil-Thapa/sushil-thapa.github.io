@@ -1,5 +1,5 @@
 ---
-title: "Assistant Instructor"
+title: "Machinelearning Assistant Instructor"
 collection: teaching
 type: "Machine Learning Course"
 permalink: /teaching/2019-fall-teaching-1
