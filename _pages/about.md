@@ -3,14 +3,13 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-I am currently working as a Senior Machine Learning Engineer at Fusemachines.
-For more than 4 years, I have been working in the field of Artificial Intelligence specifically Machine Learning and domains like Computer Vision, Recommendation System, Natural Language Processing, Speech Recognition etc.
-I am also an Instructor of AI Microdegree program at Fuse AI Center where I teach different Machine Learning and Deep Learning algorithms like Neural Networks, CNN, RNN, GAN, Reinforcement learning and more.
-I got my degree of Electronics and Communication Engineering from TU, IOE, Thapathali Campus with the focus in Robotics, Bigdata and AI.
+For more than 4 years, I have been working in the field of Artificial Intelligence specifically Machine Learning, and domains like Computer Vision, Recommendation systems, Natural Language Processing, Speech Recognition, etc.
+I am a graduate student at New Mexico Tech and currently working as a Graduate Research Assistant as well. Previously, I have worked as a Senior Machine Learning Engineer at Fusemachines and also an Instructor for the AI Microdegree program at Fuse AI Center, Kathmandu where I taught different Machine Learning and Deep Learning algorithms like Neural Networks, CNN, RNN, GAN, Reinforcement learning and more.
+I got my degree in Electronics and Communication Engineering from Trubhuvan University, Institute of Engineering with a focus in Robotics, Bigdata, and AI.
 
 Research Interest
 ======
@@ -22,4 +21,4 @@ Research Interest
 
 Contact
 ------
-Email: sushil[dot]thapa[at]fusemachines[dot]com
+Email: sushil[dot]thapa[at]student[dot]nmt[dot]edu

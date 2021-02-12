@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sushil Thapa"
 title_separator          : "-"
 name                     : &name "Sushil Thapa"
-description              : &description "Senior Machine Learning Engineer, Fusemachines"
+description              : &description "Senior Machine Learning Engineer, Fusemachines Inc."
 url                      : https://sushil-thapa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sushil-thapa/sushil-thapa.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sushil Thapa"
   avatar           : "profile.jpg"
-  bio              : "Senior Machine Learning Engineer"
-  location         : "Kathmandu, Nepal"
-  employer         : "Fusemachines"
+  bio              : "Graduate Research Assistant, Previously Sr ML Engineer @Fusemachines"
+  location         : "New Mexico, USA"
+  employer         : "New Mexico Institute of Mining and Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "mailsushilthapa@gmail.com"
+  email            : "sushil_thapa@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         : #"sushilhere"
   foursquare       :
-  github           : "sushil-thapa"
+  github           : "Sushil-Thapa"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "thapasushil"
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 7882835/sushil-thapa
   steam            :
   tumblr           :
   twitter          : "tsusil"

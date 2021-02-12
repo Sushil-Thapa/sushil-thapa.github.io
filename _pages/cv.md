@@ -19,6 +19,11 @@ Education
 
 Work experience
 ======
+* Spring 2021: Graduate Research Assistant
+  * New Mexico Tech
+  <!-- * Duties included: Tagging issues -->
+  <!-- * Supervisor: Professor Git -->
+
 * Spring 2020: Senior Machine Learning Engineer
   * Fusemachines Nepal Pvt. Ltd.
   <!-- * Duties included: Tagging issues -->
