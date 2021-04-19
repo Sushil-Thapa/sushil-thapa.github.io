@@ -21,4 +21,4 @@ Research Interest
 
 Contact
 ------
-Email: sushil[dot]thapa[at]student[dot]nmt[dot]edu
+Email: sushil[at]cs[dot]nmt[dot]edu
