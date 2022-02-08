@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sushil Thapa"
   avatar           : "profile.png"
-  bio              : "Graduate Research Assistant, Previously Sr. ML Engineer @Fusemachines"
-  location         : "New Mexico, USA"
-  employer         : "New Mexico Tech, lanl.gov"
+  bio              : "Machine Learning Engineer, Graduate Research Assistant"
+  location         : "United States"
+  employer         : #"New Mexico Tech, lanl.gov"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fAMstT8AAAAJ&hl=en"
   email            : "sushil_thapa@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
